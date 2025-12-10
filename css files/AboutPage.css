@@ -1,0 +1,15 @@
+.text li {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.text li img {
+    width: 150px;
+    height: 200px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
