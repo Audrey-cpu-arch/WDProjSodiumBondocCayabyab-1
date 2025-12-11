@@ -36,8 +36,14 @@ p{
     padding-top:50px;
 }
 
-.container { 
+span { 
     text-align: center;
-   
-    padding-top:500px;
+    display: inline-flex;
+  background-color: lavender;
+   width: 400px; 
+  height: 300px; /* Example height */
+margin-left: 1300px;
+  overflow: auto;
+  position:static;
+    
 }
