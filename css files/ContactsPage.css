@@ -1,6 +1,7 @@
 /* Don't edit this yet pls */
 
-.abtusHeader {
+
+.ContactsHeader {
     font-size: 60px;
     margin-left: 50px;
     margin-top: 10 px;
@@ -8,30 +9,30 @@
 }
 
 h2 {
-    font-size: 45px;
-    margin-left: 250px;
+    font-size: 35px;
+    margin-left: 30px;
     margin-bottom: 0px;
     margin-top: 60px;
 
 }
 
-.creatorInfo {
+.contactsInfo {
     display: flex;
     color: rgb(36, 36, 36);
     text-align: justify;
+    font-size: 18px;
+    margin-bottom: 100px;
 }
 
-.creatorInfo p {
-    margin: 35px 75px 50px 250px;
-    font-size: 20px;
+.contactsInfo div {
+    margin-right: 50px;
+    
+    
 }
 
-.creatorInfo div img {
-    margin-right: 300px;
+.contactsInfo div img {
+    margin-left: 200px;
     width: 250px;
     height: auto;
-    border-radius: 30px;
+    border-radius: 50%;
 }
-
-
-

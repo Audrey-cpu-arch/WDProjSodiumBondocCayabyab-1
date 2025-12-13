@@ -1,40 +1,75 @@
-nav {
-    background-color: #212738;
+.AnimSeriesheader {
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 30px;
+    margin-bottom: 0px;
 }
 
-       nav ul {
-    list-style-type: none;
-    margin-right: 20px;
-    
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: white;
-    
-}
-
-ul li a:hover {
-    background-color: #111;
-}
-
-
-.first{
-    float:right;
-}
-
-aside{
-    width:15%;
-    background-color: lavender;
-text-align:center;
-height:fit-content;
-float:left;
-margin-top:15px;
+.NamesAudrey {
+    font-size: 40px;
+    margin-left: 375px;
+    margin-bottom: 0px;
+    margin-top: 60px;
 
 }
 
-img{
-    float:right;
-    padding-top: 50px;
-    margin-right: 150px;
+.NamesBell {
+    font-size: 40px;
+    margin-left: 375px;
+    margin-bottom: 0px;
+    margin-top: 60px;
+
+}
+
+.AnimSeriesTitleAudrey {
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.AnimSeriesTitleBell {
+    font-size: 30px;
+    margin-left: 375px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.AnimSeriesInfoAudrey {
+    margin-left: 250px;
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+}
+
+.AnimSeriesInfoAudrey p{
+    margin-right: 75px;
+    font-size: 20px;
+}
+
+.AnimSeriesInfoAudrey div img {
+    margin-right: 120px;
+    width: 250px;
+    height: auto;
+    border-radius: 30px;
+}
+
+
+.AnimSeriesInfoBell {
+    margin-left: 375px;
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+}
+
+.AnimSeriesInfoBell p{
+    margin-right: 75px;
+    font-size: 20px;
+}
+
+.AnimSeriesInfoBell div img {
+    margin-right: 120px;
+    width: 250px;
+    height: auto;
+    border-radius: 30px;
 }
