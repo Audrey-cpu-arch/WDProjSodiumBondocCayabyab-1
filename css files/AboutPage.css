@@ -23,7 +23,8 @@ h2 {
 
 .creatorInfo p {
     margin: 35px 75px 50px 250px;
-    font-size: 20px;
+    font-size: 30px;
+    
 }
 
 .creatorInfo div img {
@@ -31,6 +32,14 @@ h2 {
     width: 250px;
     height: auto;
     border-radius: 30px;
+}
+
+.belldrawing {
+    margin-right: 300px;
+    width: 250px;
+    height: auto;
+    border-radius: 30px;
+    padding-left: 75px;
 }
 
 
